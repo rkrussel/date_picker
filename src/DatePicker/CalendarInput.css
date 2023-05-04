@@ -1,0 +1,12 @@
+.calendar {
+	border: 1px solid white;
+	margin-top: 16px;
+	padding: 8px;
+	min-height: 300px;
+	min-width: 300px;
+}
+
+.calendar-header {
+	display: flex;
+	justify-content: space-between;
+}
